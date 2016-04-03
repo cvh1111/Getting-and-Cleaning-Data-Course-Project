@@ -6,8 +6,8 @@ The goal is to prepare tidy data that can be used for later analysis.
 
 In this project the following files are available:
 
- 1. a tidy data set as described below
- 2. a code book that describes the variables, the data, and any transformations or work that you performed to clean up the data called CodeBook.md. 
+ 1. A tidy data set as described below
+ 2. A code book that describes the variables, the data, and any transformations or work that you performed to clean up the data called CodeBook.md. 
  3. This README.md in the repo with your scripts. 
 
 This dataset is about one of the most exciting areas in all of data science right now is wearable computing 
@@ -24,6 +24,7 @@ In that file all steps are done to perform the tasks for this project.
 Within the R-file comments are made to explain the flow.
 
 The tasks for the project where:
+
 1. Merges the training and the test sets to create one data set.
 2. Extracts only the measurements on the mean and standard deviation for each measurement.
 3. Uses descriptive activity names to name the activities in the data set
